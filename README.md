@@ -3,6 +3,7 @@
   <h1>Attendo</h1>
   <p>Attendance System based on Face Recognition for graduation project (2023)</p>
 </div>
+<img width="100%" src="images/feature_graphic.png" alt="Application Image 10">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="width: 100%; height: auto;">
 </p>
